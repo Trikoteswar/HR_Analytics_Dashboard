@@ -20,3 +20,5 @@ Files:
       - HR Data.xlsx
       - HR_Dashboard.twb
       - dashboard.png
+
+![Dashboard Preview](dasboard.png)
